@@ -1,7 +1,7 @@
 # wedding_RSVP
 
 <p align="center">
-<img src="https://github.com/Itamare4/wedding_RSVP/blob/master/SMS/Wedding_RSVP.png?raw=true" height="200" width=auto>
+<img src="https://github.com/Itamare4/wedding_RSVP/blob/master/SMS/Wedding_RSVP.png?raw=true" height="400" width=auto>
 </p>
 
 ### Brief ###
