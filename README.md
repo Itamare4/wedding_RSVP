@@ -4,11 +4,9 @@
 <img src="https://github.com/Itamare4/wedding_RSVP/blob/master/SMS/Wedding_RSVP.png?raw=true" height="400" width=auto>
 </p>
 
-### Brief ###
+### SMS RSVP ###
 System that sends, recieves, and proccess SMS from guests to confirm the estimated guests that will arrive to the wedding(RSVP), it uses AirMore(Android Side) & pyairmore(PC side) to send the SMS through mobile network.
 
-
-### SMS RSVP ###
 ### Prerequisites ###
 * Fill attached excel file with the guests details (currently tested only in Israel, try to change the COUNTRY_AREA_CODE)
 * Install pyairmore (pip install pyairmore)
